@@ -1,0 +1,17 @@
+butterwordfilter 4de orde
+orde = 4 
+1ste trap :
+	dB/dec = -80
+	Polen = 2
+	DF = 1.848
+	R1/R2 = 0.152
+2de trap:
+	polen = 2
+	DF = 0.765
+	R3/R4 = 1.235
+Condensator LD = 1µF Fc = 800Hz
+Condensator HD = 100nF
+
+multiple feedback filter 
+	Middentoon = 950Hz - 3kHz 
+	Condensator  = 10nF
